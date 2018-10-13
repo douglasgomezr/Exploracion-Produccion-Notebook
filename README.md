@@ -6,5 +6,4 @@ Listado de las notas de trabajo:
   * Profundidad desarrollada de un pozo desviado
   * Espectro de potencia y fase-Parte 1
   * Lectura de datos sísmicos en formato SEGY con Madagascar
-  
-  Para reproducirlas debe descargarlas y ejecutarlas con [Jupyter](http://jupyter.org/).
+  * Cálculo del factor de azulamiento espectral-Borrador
