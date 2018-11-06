@@ -8,4 +8,3 @@ Listado de las notas de trabajo (archivos ipynb):
   * Lectura de datos sísmicos en formato SEGY con Madagascar
   * Cálculo del factor de azulamiento espectral-Borrador
   
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/douglasgomezr/utileria_eyp/binder)
