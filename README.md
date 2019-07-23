@@ -1,6 +1,6 @@
-# utileria_eyp
+# Listado de cuadernos de trabajo
 
-Listado de las notas de trabajo (archivos .ipynb):
+Archivos .ipynb:
   * Espectro de amplitud y fase 2D
   * Profundiad desarrollada
   * Sismograma sintético
