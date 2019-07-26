@@ -9,4 +9,4 @@
   * Producción histórica de gas de Enero 1960 a Septiembre 2017
   
 # Licencia
-Este proyecto está bajo la licencia MIT. Para más detalles, consulte el archivo LICENSE.
+Este proyecto está bajo la licencia MIT. Para más detalles, consulte el archivo [LICENSE](https://github.com/douglasgomezr/Python-Exploracion-Produccion/blob/master/LICENSE).
